@@ -260,3 +260,14 @@ did not seem to install anything either..
 1. [My portfolio](offllne.github.io/Portfolio/Portfolio)
 
 
+
+
+
+### Day 24: January 26, Thursday
+
+**Today's Progress**: Continued my work on my Simon game
+
+**Thoughts** Slight progress made, but today have been a busy day, so not able to do as much coding as I would like to
+**Link(s) to work**
+1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
+
