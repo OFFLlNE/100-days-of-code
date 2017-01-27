@@ -271,3 +271,15 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
 
+
+
+
+
+### Day 25: January 27, Friday
+
+**Today's Progress**: Continued my work on my Simon game. Did some regex addition to FCC Camperbot
+
+**Thoughts** Slight progress made. Timeout function sometimes works sometimes it does not work..
+**Link(s) to work**
+1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
+
