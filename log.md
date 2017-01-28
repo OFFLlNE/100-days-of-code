@@ -283,3 +283,15 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
 
+
+
+
+
+### Day 26: January 28, Saturday
+
+**Today's Progress**: Continued my work on my Simon game, Helped some people on FCC Chat
+
+**Thoughts** Most coding will be done at night after I get home
+**Link(s) to work**
+1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
+
