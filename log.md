@@ -295,3 +295,16 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
 
+
+
+
+
+### Day 27: January 29, Sunday
+
+**Today's Progress**: Continued my work on my Simon game, Helped some people on FCC Chat, Also solved 5 issues on my porfolio
+
+**Thoughts** Good day, tho I solved 5 issues, I found 2 new ones
+**Link(s) to work**
+1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
+2. [Portfolio](https://offllne.github.io/Portfolio/Portfolio)
+
