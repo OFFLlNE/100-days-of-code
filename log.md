@@ -312,7 +312,7 @@ did not seem to install anything either..
 
 
 
-### Day 27: January 30, Monday
+### Day 28: January 30, Monday
 
 **Today's Progress**: Continued my work on my Simon game. Might do some issue solving later today
 
