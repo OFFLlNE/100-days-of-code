@@ -308,3 +308,15 @@ did not seem to install anything either..
 1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
 2. [Portfolio](https://offllne.github.io/Portfolio/Portfolio)
 
+
+
+
+
+### Day 27: January 30, Monday
+
+**Today's Progress**: Continued my work on my Simon game. Might do some issue solving later today
+
+**Thoughts** Very close to finishing that Simon Game.
+**Link(s) to work**
+1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
+
