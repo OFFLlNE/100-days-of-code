@@ -320,3 +320,15 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [Simon Game](https://codepen.io/OFFLlNE/pen/XpgrZE)
 
+
+
+
+
+### Day 29: January 31, Tuesday
+
+**Today's Progress**: Did some beta.FCC ES6 challenges. for QA and to learn to do them myself
+
+**Thoughts** managed to get Front-End Cert yesterday, still stoked about that
+**Link(s) to work**
+1. [FCC Front-End Certificate](https://www.freecodecamp.com/offllne/front-end-certification)
+
