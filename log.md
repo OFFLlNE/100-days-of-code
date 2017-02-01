@@ -332,3 +332,15 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [FCC Front-End Certificate](https://www.freecodecamp.com/offllne/front-end-certification)
 
+
+
+
+
+### Day 30: February 1, Wednesday
+
+**Today's Progress**: Did some beta.FCC QA and solving the challenges.
+
+**Thoughts** Getting close to web-responsiveness cert :p
+**Link(s) to work**
+1. [BETA fCC](beta.freecodecamp.com)
+
