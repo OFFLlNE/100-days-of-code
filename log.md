@@ -362,9 +362,9 @@ did not seem to install anything either..
 
 ### Day 32: February 3, Friday
 
-**Today's Progress**: Did some beta.FCC QA and solving the challenges. Did solve all of the Responsive web-dev ones.
+**Today's Progress**: Helping people on fCC Help. And looking into new fcc beta (QA)
 
-**Thoughts** Responsive Web-Dev cert :tada:
+**Thoughts** 
 **Link(s) to work**
 1. [BETA fCC](beta.freecodecamp.com)
 
