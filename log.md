@@ -368,3 +368,15 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [BETA fCC](beta.freecodecamp.com)
 
+
+
+
+
+### Day 33: February 6, Monday
+
+**Today's Progress**: Helping people on fCC Help. Also started setting up my java programming tools
+
+**Thoughts** 
+**Link(s) to work**
+1. [BETA fCC](beta.freecodecamp.com)
+
