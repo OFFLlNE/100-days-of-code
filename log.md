@@ -380,3 +380,14 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [BETA fCC](beta.freecodecamp.com)
 
+
+
+
+
+### Day 34: February 8, WednesDay
+
+**Today's Progress**: Did some offline HTML programming.
+
+**Thoughts** Interesting to try to figure out the code w/o being able to google for help
+**Link(s) to work**
+
