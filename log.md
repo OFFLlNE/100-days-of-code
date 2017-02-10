@@ -384,10 +384,21 @@ did not seem to install anything either..
 
 
 
-### Day 34: February 8, WednesDay
+### Day 34: February 8, Wednesday
 
 **Today's Progress**: Did some offline HTML programming.
 
 **Thoughts** Interesting to try to figure out the code w/o being able to google for help
+**Link(s) to work**
+
+
+
+
+
+### Day 35: February 10, Friday
+
+**Today's Progress**: Did some offline HTML programming on my own project.
+
+**Thoughts** Interesting to try to figure out the code w/o being able to google for help. Also came home after TechChill Conference which was awesome
 **Link(s) to work**
 
