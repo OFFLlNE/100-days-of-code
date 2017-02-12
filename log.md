@@ -402,3 +402,13 @@ did not seem to install anything either..
 **Thoughts** Interesting to try to figure out the code w/o being able to google for help. Also came home after TechChill Conference which was awesome
 **Link(s) to work**
 
+
+
+
+
+### Day 36: February 12, Sunday
+
+**Today's Progress**: Java programming
+**Thoughts** Soooo difficult and boring :D
+**Link(s) to work**
+
