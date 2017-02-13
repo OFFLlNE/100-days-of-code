@@ -412,3 +412,13 @@ did not seem to install anything either..
 **Thoughts** Soooo difficult and boring :D
 **Link(s) to work**
 
+
+
+
+
+### Day 37: February 13, Monday
+
+**Today's Progress**: Java programming and did learn some regex basics
+**Thoughts** Good olf regex which nobody understands
+**Link(s) to work**
+
