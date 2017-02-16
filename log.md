@@ -432,3 +432,13 @@ did not seem to install anything either..
 **Thoughts** Read some articles - got some motivation back :D
 **Link(s) to work**
 
+
+
+
+
+### Day 39: February 16, Thursday
+
+**Today's Progress**: Java Programming - mostly regex stuff
+**Thoughts** Really annoyed with some parts that do not work as I intend them to work
+**Link(s) to work**
+
