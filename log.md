@@ -422,3 +422,13 @@ did not seem to install anything either..
 **Thoughts** Good olf regex which nobody understands
 **Link(s) to work**
 
+
+
+
+
+### Day 38: February 15, Wednesday
+
+**Today's Progress**: Did some programming here and there. Some java, Some js, some html
+**Thoughts** Read some articles - got some motivation back :D
+**Link(s) to work**
+
