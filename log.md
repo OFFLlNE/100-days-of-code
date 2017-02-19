@@ -442,3 +442,36 @@ did not seem to install anything either..
 **Thoughts** Really annoyed with some parts that do not work as I intend them to work
 **Link(s) to work**
 
+
+
+
+
+
+### Day 40: February 14, Friday
+
+**Today's Progress**: Hackathon FB messenger bot implementing
+**Thoughts** 2 sleepless nights and 1 product
+**Link(s) to work**
+
+
+
+
+
+
+### Day 41: February 15, Saturday
+
+**Today's Progress**: Hackathon FB messenger bot implementing
+**Thoughts** 2 sleepless nights and 1 product
+**Link(s) to work**
+
+
+
+
+
+
+### Day 42: February 19, Sunday
+
+**Today's Progress**: Hackathon FB messenger bot implementing
+**Thoughts** 2 sleepless nights and 1 product
+**Link(s) to work**
+
