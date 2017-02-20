@@ -475,3 +475,14 @@ did not seem to install anything either..
 **Thoughts** 2 sleepless nights and 1 product
 **Link(s) to work**
 
+
+
+
+
+
+### Day 43: February 20, Monday
+
+**Today's Progress**: Java programming
+**Thoughts** 
+**Link(s) to work**
+
