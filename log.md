@@ -486,3 +486,13 @@ did not seem to install anything either..
 **Thoughts** 
 **Link(s) to work**
 
+
+
+
+
+### Day 44: February 21, Tuesday
+
+**Today's Progress**: Trying to create my own simple game 
+**Thoughts** A game that I used to play with friends in a textbook
+**Link(s) to work**
+
