@@ -496,3 +496,13 @@ did not seem to install anything either..
 **Thoughts** A game that I used to play with friends in a textbook
 **Link(s) to work**
 
+
+
+
+### Day 45: February 22, Wednesday
+
+**Today's Progress**: Created a xkcd messenger bot
+**Thoughts** Bot which will post a random xkcd joke with a title + image
+**Link(s) to work**
+1. [xkcd messenger BOT](https://www.facebook.com/Bot-xkcd-1360945160643152/)
+
