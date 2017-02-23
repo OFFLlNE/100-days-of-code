@@ -506,3 +506,12 @@ did not seem to install anything either..
 **Link(s) to work**
 1. [xkcd messenger BOT](https://www.facebook.com/Bot-xkcd-1360945160643152/)
 
+
+
+
+### Day 46: February 23, Thursday
+
+**Today's Progress**: Was working on my previous bot
+**Thoughts** Had to make some little changes before pushing it live
+**Link(s) to work**
+
