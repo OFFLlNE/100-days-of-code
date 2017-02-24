@@ -515,3 +515,11 @@ did not seem to install anything either..
 **Thoughts** Had to make some little changes before pushing it live
 **Link(s) to work**
 
+
+
+
+### Day 47: February 24, Friday
+
+**Today's Progress**: Doing some Java and later web-project
+**Thoughts** Today is the day when I really have to learn how to do back-end. Need to hide my DB touching :/ :O
+**Link(s) to work**
