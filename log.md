@@ -523,3 +523,23 @@ did not seem to install anything either..
 **Today's Progress**: Doing some Java and later web-project
 **Thoughts** Today is the day when I really have to learn how to do back-end. Need to hide my DB touching :/ :O
 **Link(s) to work**
+
+
+
+
+
+### Day 48: February 25, Saturday
+
+**Today's Progress**: Python coding and learning some back-end
+**Thoughts** Don't like python. 
+**Link(s) to work**
+
+
+
+
+
+### Day 49: February 26, Sunday
+
+**Today's Progress**: Python coding and learning some back-end
+**Thoughts** Have to learn how to set up a server and then connect DB to it and FE and stuff
+**Link(s) to work**
