@@ -1,8 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 1: January 22 2021 
+
+**Today's Progress**: Trying to set up React app from scratch which would use TypeScript
+
+**Thoughts** A little more difficult that I imagined. I tried to use the tutorials only without reading any documatation.
+I also wanted to avoid CRA, so I could try it all myself. Next time I might try to invest more time into documatations
+
+**Link(s) to work**
+1. The repo as of this post is still private, so no public work to be shared
 
 
-
+----------------------------------
+### Attempt at it in 2017!
 ### Day 1: January 3, Tuesday
 
 **Today's Progress**: Started doing the FCC JavaScript Calculator. Did make simple HTML/CSS calculator. Started implementing some JS and found a great
