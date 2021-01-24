@@ -18,6 +18,18 @@ I also wanted to avoid CRA, so I could try it all myself. Next time I might try 
 **Thoughts** I was stuck trying to figure out why my arrow function requires a return after adding JSX.Element as return type in Calculator. As it was very late at night when I found the time to do that daily coding hour I was a little exhausted and just wrote the base for the Calculator and the action plan what needs to come next.
 Also I believe I need to read up on TypeScript itself and finally understand how Hooks work. So might dedicate some time for that
 
+### Day 3: January 24 2021
+
+**Today's Progress**:
+
+- Calculator:
+  -- Added Sass
+  -- Created CalculatorButton component
+  -- Mapping all buttons with the button component
+- Reading about React Hooks
+
+**Thoughts** Hooks been a around for quite some time now, but I am finally taking the time to actually read the documentation about them and to properly understand it. So far the useState one seems pretty straightforward. After that I believe I can finally add some button functionalities to my calculator
+
 ---
 
 ### Attempt at it in 2017!
