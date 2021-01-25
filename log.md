@@ -30,6 +30,17 @@ Also I believe I need to read up on TypeScript itself and finally understand how
 
 **Thoughts** Hooks been a around for quite some time now, but I am finally taking the time to actually read the documentation about them and to properly understand it. So far the useState one seems pretty straightforward. After that I believe I can finally add some button functionalities to my calculator
 
+### Day 4: January 25 2021
+
+**Today's Progress**:
+
+Read the React Hooks documentation
+Added first hook into Calculator
+
+**Thoughts**
+Hooks turn out to be pretty easy to understand, I am surprised I couldn't understand them before.
+Also added my first hook to the calculator which just changes the input based on which button I click. From there I now need to actually create a logic to store that input for longer etc.
+
 ---
 
 ### Attempt at it in 2017!
