@@ -1,22 +1,25 @@
 # 100 Days Of Code - Log
 
-### Day 1: January 22 2021
+### Day 5: January 26 2021
 
-**Today's Progress**: Trying to set up React app from scratch which would use TypeScript
+**Today's Progress**:
 
-**Thoughts** A little more difficult that I imagined. I tried to use the tutorials only without reading any documatation.
-I also wanted to avoid CRA, so I could try it all myself. Next time I might try to invest more time into documatations
+Tried adding the math logic to Calculator.
 
-**Link(s) to work**
+**Thoughts**
+It was a struggle. I think I tried to complete too big of a chunk of logic. So in the end I started going bit by bit. First just adding numbers together and clearing the input field when symbol is clicked.
+From there I now need to add the logic again when a symbol is being clicked
 
-1. [100 Days](https://github.com/OFFLlNE/100-days)
+### Day 4: January 25 2021
 
-### Day 2: January 23 2021
+**Today's Progress**:
 
-**Today's Progress**: Starting to build a Calculator
+Read the React Hooks documentation
+Added first hook into Calculator
 
-**Thoughts** I was stuck trying to figure out why my arrow function requires a return after adding JSX.Element as return type in Calculator. As it was very late at night when I found the time to do that daily coding hour I was a little exhausted and just wrote the base for the Calculator and the action plan what needs to come next.
-Also I believe I need to read up on TypeScript itself and finally understand how Hooks work. So might dedicate some time for that
+**Thoughts**
+Hooks turn out to be pretty easy to understand, I am surprised I couldn't understand them before.
+Also added my first hook to the calculator which just changes the input based on which button I click. From there I now need to actually create a logic to store that input for longer etc.
 
 ### Day 3: January 24 2021
 
@@ -30,16 +33,23 @@ Also I believe I need to read up on TypeScript itself and finally understand how
 
 **Thoughts** Hooks been a around for quite some time now, but I am finally taking the time to actually read the documentation about them and to properly understand it. So far the useState one seems pretty straightforward. After that I believe I can finally add some button functionalities to my calculator
 
-### Day 4: January 25 2021
+### Day 2: January 23 2021
 
-**Today's Progress**:
+**Today's Progress**: Starting to build a Calculator
 
-Read the React Hooks documentation
-Added first hook into Calculator
+**Thoughts** I was stuck trying to figure out why my arrow function requires a return after adding JSX.Element as return type in Calculator. As it was very late at night when I found the time to do that daily coding hour I was a little exhausted and just wrote the base for the Calculator and the action plan what needs to come next.
+Also I believe I need to read up on TypeScript itself and finally understand how Hooks work. So might dedicate some time for that
 
-**Thoughts**
-Hooks turn out to be pretty easy to understand, I am surprised I couldn't understand them before.
-Also added my first hook to the calculator which just changes the input based on which button I click. From there I now need to actually create a logic to store that input for longer etc.
+### Day 1: January 22 2021
+
+**Today's Progress**: Trying to set up React app from scratch which would use TypeScript
+
+**Thoughts** A little more difficult that I imagined. I tried to use the tutorials only without reading any documatation.
+I also wanted to avoid CRA, so I could try it all myself. Next time I might try to invest more time into documatations
+
+**Link(s) to work**
+
+1. [100 Days](https://github.com/OFFLlNE/100-days)
 
 ---
 
