@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 27 2021
+
+**Today's Progress**:
+
+Continued on Calculation login in the Calculator
+
+**Thoughts**
+There are some edge cases coming in which are sometimes hard to understand why they appear. Code is starting to feel more like spaghetti code :(. Got to try to clean it up tomorrow or at least get it fully functional first
+
 ### Day 5: January 26 2021
 
 **Today's Progress**:
