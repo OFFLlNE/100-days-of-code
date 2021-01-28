@@ -1,10 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 28 2021
+
+**Today's Progress**:
+
+Rewrote most of the functions to be better organized in Calculator
+
+**Thoughts**
+Again, I am almost there. It seems to work fine when I end up my math with the =. But if I chain multiple operations together as in 2*2*2\*2 then it breaks somewhere. Really hoping to figure it out tomorrow so I can get on with styling + adding tests
+
 ### Day 6: January 27 2021
 
 **Today's Progress**:
 
-Continued on Calculation login in the Calculator
+Continued on calculation logic in the Calculator
 
 **Thoughts**
 There are some edge cases coming in which are sometimes hard to understand why they appear. Code is starting to feel more like spaghetti code :(. Got to try to clean it up tomorrow or at least get it fully functional first
