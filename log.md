@@ -5,10 +5,13 @@
 **Today's Progress**:
 
 Got Calculator fully functional with my buttons
+Later in the day started small Game project
 
 **Thoughts**
 Finally, on the last second I figured out how to fix one of the last bugs I managed to find. Otherwise this is now fully functional. At some point I went out to see how there are some other React Hooks calculators done, but they had a bug as well so I just tried and continued brainstorming on my own Calculator. Pretty happy with it.
 Next up Styles, Tests and proper TypeScript return types
+
+Wanted to see if I will be able to create a tower defense game in JS. A little scared of the pathfinding and collision detection, but I will give it a try!
 
 ### Day 7: January 28 2021
 
