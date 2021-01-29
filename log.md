@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 29 2021
+
+**Today's Progress**:
+
+Got Calculator fully functional with my buttons
+
+**Thoughts**
+Finally, on the last second I figured out how to fix one of the last bugs I managed to find. Otherwise this is now fully functional. At some point I went out to see how there are some other React Hooks calculators done, but they had a bug as well so I just tried and continued brainstorming on my own Calculator. Pretty happy with it.
+Next up Styles, Tests and proper TypeScript return types
+
 ### Day 7: January 28 2021
 
 **Today's Progress**:
@@ -7,7 +17,7 @@
 Rewrote most of the functions to be better organized in Calculator
 
 **Thoughts**
-Again, I am almost there. It seems to work fine when I end up my math with the =. But if I chain multiple operations together as in 2*2*2\*2 then it breaks somewhere. Really hoping to figure it out tomorrow so I can get on with styling + adding tests
+Again, I am almost there. It seems to work fine when I end up my math with the =. But if I chain multiple operations together as in 2*2*2 then it breaks somewhere. Really hoping to figure it out tomorrow so I can get on with styling + adding tests
 
 ### Day 6: January 27 2021
 
