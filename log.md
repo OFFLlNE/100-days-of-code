@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 30 2021
+
+**Today's Progress**:
+
+Working on the Tower Defense JS Project
+Some styling to the Calculator
+
+**Thoughts**
+Calculator starting to look pretty sleep - quite happy about that. I am starting to put more time towards the game (80-20) but would love to have a very nice calculator component finished at some point.
+Game is quite interesting project, I would be very happy if I can finish it by the end of 100 days, we shall see! Today I was mostly working on trying to find pathfinding algorithms and tried to understand how can I implement them in my JS grid. But then it sparked that I do not need pathfinder alorithm with a fixed game path. So I just hardcoded the coordinates of all moves you can take on the path.
+
 ### Day 8: January 29 2021
 
 **Today's Progress**:
