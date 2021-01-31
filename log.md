@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: January 31 2021
+
+**Today's Progress**:
+
+Movement function in Game
+Started reading about tests for Calc
+
+**Thoughts**
+In the console log I got the whole path movement done for the Game I am building. But I cannot get the game field UI to update - I guess I got to deal with state here, need to read up more on it. Also facing the issue where my React mapping key value is repeating all over the place.
+Calculator did not get too much attention today, just started reading the jest docs on how to get started with the tests.
+
 ### Day 9: January 30 2021
 
 **Today's Progress**:
