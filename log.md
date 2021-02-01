@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: February 1 2021
+
+**Today's Progress**:
+
+Trying to add Tests for Calculator
+Adding unique key to element mapping in Game
+
+**Thoughts**
+Most time was spent on trying to get the tests running. I wrote a basic addition test, but couldn't get the yarn test to run. Need to read up on how to setup jest tests properly.
+Quite happy that I found a way to get the index for a map in the Game, just quick documentation check and I was done with something I thought will be difficult to figure out
+
 ### Day 10: January 31 2021
 
 **Today's Progress**:
