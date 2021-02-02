@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 12: February 2 2021
+
+**Today's Progress**:
+
+Trying to add Tests for Calculator
+Working on Game movement
+
+**Thoughts**
+Most time spent on trying to get the Game moving. Almost works perfectly, but for some reason does 3 movement actions in a row when moving down. Need to figure out why this is happening. Quite difficult
+
 ### Day 11: February 1 2021
 
 **Today's Progress**:
