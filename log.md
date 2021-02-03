@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 13: February 3 2021
+
+**Today's Progress**:
+
+Game movement fixed + refactoring
+
+**Thoughts**
+Figured out the Game movement bug. Since it was mapping the rows, what happenes was that it moved down and then the map went on to the next row and saw there character is there and then moved again. So basically whenever it was moving down it did it until it stopped moving down. The fix was to take out the movement function from the map function and we were cruising!
+Cleaned up the Game code a bit and tried to make it short.
+Also added some playerHealth, money and wave states.
+
 ### Day 12: February 2 2021
 
 **Today's Progress**:
