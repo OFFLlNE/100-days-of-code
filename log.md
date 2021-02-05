@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 15: February 5 2021
+
+**Today's Progress**:
+
+Game turret creation
+
+**Thoughts**
+Spent some time to do a little codewars. After that I ended up playing more around my Game. Added the initial logic for the turret creation.
+
 ### Day 14: February 4 2021
 
 **Today's Progress**:
