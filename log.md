@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 14: February 4 2021
+
+**Today's Progress**:
+
+Tests on Calculator
+
+**Thoughts**
+Focused purely on trying to get those tests working on Calculator. Finally managed to do so.
+Then added all the tests to cover all main functionalities. Cleaned up some deps I added while I was debugging.
+
 ### Day 13: February 3 2021
 
 **Today's Progress**:
