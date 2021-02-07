@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 17: February 7 2021
+
+**Today's Progress**:
+
+CodeWars and CodeClash
+
+**Thoughts**
+Decided to check out code clash copetition stuff. Quite fun, but some problems are soo difficult to understand that I paused that for now.
+Doing some Codewars Katas to get the feeling of some quick problem solving and to see what are some clever ways people have used so I can learn some docs around stuff to be more efficient in the future.
+
+### Day 16: February 6 2021
+
+**Today's Progress**:
+
+Game turrets
+
+**Thoughts**
+Spent some time trying to figure out how to create the turrets. It did add that, but there is some state changing I need to involve now which might turn out to be tricker than I thought.
+
 ### Day 15: February 5 2021
 
 **Today's Progress**:
