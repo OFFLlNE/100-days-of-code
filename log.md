@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 18: February 8 2021
+
+**Today's Progress**:
+
+CodeWars
+
+**Thoughts**
+Did 4 Katas in Codewars. Some of them I figured out the best practise method, but some solutions were so clever that I definitely learned a lot.
+
 ### Day 17: February 7 2021
 
 **Today's Progress**:
