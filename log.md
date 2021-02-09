@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 19: February 9 2021
+
+**Today's Progress**:
+
+Turret creation in Tower Defense
+
+**Thoughts**
+First I was worried that the turret creation system is quite complex and I postponed that for some time by doing codewars etc. instead. Today my friend wanted to see my twitted updates on the game, so I decided to spend some time on it again.
+In the end the turret creation went quite smooth and simple. Next big chunk of work will be the enemy detection
+
 ### Day 18: February 8 2021
 
 **Today's Progress**:
