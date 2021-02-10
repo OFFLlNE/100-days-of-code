@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 20: February 10 2021
+
+**Today's Progress**:
+
+Steps towards turret detection
+
+**Thoughts**
+This felt like quite a tricky thing to do. So I was thinking a bit how can a turret detect the enemy. Then I decided it is easier to detect if there is a turret in the range of the enemy and how many of those if there are multiple. So I created a function that gets the surrounding coordinates of the enemy - now need to figure out how to start checking for turrets on those coords
+
 ### Day 19: February 9 2021
 
 **Today's Progress**:
