@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 21: February 11 2021
+
+**Today's Progress**:
+
+Detect how many turrets there are around the enemy
+
+**Thoughts**
+I successfully managed to create a function that checks how many turrets there currently are around the enemy. With that I can understand how much damage the turrets can make per game tick.
+
+Feeling pretty good and I am pretty confident I can make this game work. My only worry so far is that I can make it work with 1 enemy only :D But we will see what the future will bring!
+
 ### Day 20: February 10 2021
 
 **Today's Progress**:
