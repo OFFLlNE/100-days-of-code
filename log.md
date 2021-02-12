@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 22: February 12 2021
+
+**Today's Progress**:
+
+Add enemy health in the Tower Defense and start killing the enemy when they are near the turrets
+
+**Thoughts**
+I am starting to have too many states I feel like. One day after I have the animation done and some proper monster and money scalability done, then I would love to refactor the code a bit as well
+
 ### Day 21: February 11 2021
 
 **Today's Progress**:
