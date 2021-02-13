@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 23: February 13 2021
+
+**Today's Progress**:
+
+Just learning about some hooks and new things to me
+
+**Thoughts**
+Memoization is pretty cool thing. I will try to throw something about it into my 100-days repo as well about it to show the performance increase compared to classic way of solving the fibonacci that was thought to me in uni
+
 ### Day 22: February 12 2021
 
 **Today's Progress**:
