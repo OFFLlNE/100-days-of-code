@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 24: February 15 2021
+
+**Today's Progress**:
+
+Played around with Memoization
+
+**Thoughts**
+This is pretty insane how much faster memoization is to the classic recursion fibonacci function. Good to know how this might come in handy when I need to greate a fibonacci function hehe :D
+
 ### Day 23: February 13 2021
 
 **Today's Progress**:
