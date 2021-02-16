@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### Day 25: February 16 2021
+
+**Today's Progress**:
+
+Shooting animation for the game
+
+**Thoughts**
+Got the shooting animation added to the turrets in the Game. Only bug is that after the wave ends the killing turret keeps on spinning - need to figure that out.
+Otherwise I can not make the game to work on game-ticks and slowly finish the main functionality and think what to do next
+
 ### Day 24: February 15 2021
 
 **Today's Progress**:
