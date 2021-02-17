@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 26: February 17 2021
+
+**Today's Progress**:
+
+Fixed shooting animation bug
+Read up on some expressJS docs
+
+**Thoughts**
+Spent quite a bit of time to figure out how to solve the animation bug I had from last time. Solution was much simpler than I first thought.
+Rest of the time I spent on reading some expressJS docs.
+
 ### Day 25: February 16 2021
 
 **Today's Progress**:
