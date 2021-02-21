@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 27: February 21 2021
+
+**Today's Progress**:
+
+Added game ticks
+
+**Thoughts**
+For some reason after each tick movement the health regens - feels like some part of the state is reseting for some reason. Need to investigate that next time.
+
 ### Day 26: February 17 2021
 
 **Today's Progress**:
