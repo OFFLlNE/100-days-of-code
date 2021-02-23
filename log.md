@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 28: February 23 2021
+
+**Today's Progress**:
+
+Bought my domain and started building my portfolio
+
+**Thoughts**
+Will try to host my website on github pages and see if I can keep it very light-weight and fast loading portfolio
+
 ### Day 27: February 21 2021
 
 **Today's Progress**:
