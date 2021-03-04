@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 30: March 4 2021
+
+**Today's Progress**:
+
+Working on my own website in Preact
+
+**Thoughts**
+I want to try to create a very ligthweight website for myself with Preact. Sounds like a fun challenge to try - will see how it goes.
+
+### Day 29: March 3 2021
+
+**Today's Progress**:
+
+Trying to setup stuff to code on Windows
+
+**Thoughts**
+I was thinking of coding on Minecraft plugins and also was trying to finish my own portfolio website first. So I went with classic coding first and wanted to install the tools on my Windows computer and it was a hassle. Big pain :D
+In the end I was just looking into Preact.
+
 ### Day 28: February 23 2021
 
 **Today's Progress**:
